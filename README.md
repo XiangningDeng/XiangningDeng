@@ -1,8 +1,7 @@
-![Xiangning's GitHub stats](https://github-readme-stats.vercel.app/api?username=XiangningDeng&count_private=true)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=XiangningDeng&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XiangningDeng&layout=compact&exclude_repo=sumy7.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/XiangningDeng">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XiangningDeng&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiangningDeng&theme=buefy&layout=compact" />
+</a>
 <!--
 **XiangningDeng/XiangningDeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
